@@ -15,6 +15,7 @@
 
 ## Table of Contents
 
+*   [Vue](#vue)
 *   [TypeScript](#typescript)
 *   [C#](#c)
 *   [miscellaneous](#miscellaneous)
@@ -36,6 +37,10 @@
 *   [HTML](#html)
 *   [Markdown](#markdown)
 *   [Thanks](#thanks)
+
+## Vue
+
+*   [fantastic-mobile/basic](https://github.com/fantastic-mobile/basic) - ⭐⭐⭐⭐⭐ 一款自成一派的移动端 H5 框架，支持多款 UI 组件库，基于 Vue3 。移动端, H5, vant, 手机端, mobile, 模板, 商城, 微信公众号
 
 ## TypeScript
 
@@ -155,8 +160,6 @@
 
 *   [AlessandroZ/LaZagne](https://github.com/AlessandroZ/LaZagne) - Credentials recovery project
 
-*   [CorralPeltzer/newTrackon](https://github.com/CorralPeltzer/newTrackon) - newTrackon, a public open BitTorrent trackers monitoring tool
-
 ## JavaScript
 
 *   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. Feature enhancement tool | Typora 插件，功能增强工具
@@ -183,7 +186,7 @@
 
 ## Shell
 
-*   [xykt/IPQuality](https://github.com/xykt/IPQuality) - A script for IP quality detection
+*   [xykt/IPQuality](https://github.com/xykt/IPQuality) - IP质量检测脚本 - IP Quality Check Script
 
 *   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 
