@@ -15,6 +15,7 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [TypeScript](#typescript)
 *   [Objective-C](#objective-c)
 *   [Vue](#vue)
@@ -32,13 +33,22 @@
 *   [Dart](#dart)
 *   [Batchfile](#batchfile)
 *   [PHP](#php)
-*   [Java](#java)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [C++](#c-2)
 *   [CSS](#css)
 *   [HTML](#html)
 *   [Markdown](#markdown)
 *   [Thanks](#thanks)
+
+## Java
+
+*   [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
+
+*   [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg) - Allows you to emulate an Android native library, and an experimental  iOS emulation
+
+*   [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files
+
+*   [Jamling/SmartIM4IntelliJ](https://github.com/Jamling/SmartIM4IntelliJ) - IntelliJ IDEA上的SmartIM(原SmartQQ)插件，可以在IDEA中使用QQ或微信聊天
 
 ## TypeScript
 
@@ -253,16 +263,6 @@
 *   [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) - 🔐 JSON Web Token Authentication for Laravel & Lumen
 
 *   [walkor/phpsocket.io](https://github.com/walkor/phpsocket.io) - A server side alternative implementation of socket.io in PHP based on workerman.
-
-*   [laravel/socialite](https://github.com/laravel/socialite) - Laravel wrapper around OAuth 1 & OAuth 2 libraries.
-
-## Java
-
-*   [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg) - Allows you to emulate an Android native library, and an experimental  iOS emulation
-
-*   [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files
-
-*   [Jamling/SmartIM4IntelliJ](https://github.com/Jamling/SmartIM4IntelliJ) - IntelliJ IDEA上的SmartIM(原SmartQQ)插件，可以在IDEA中使用QQ或微信聊天
 
 ## Jupyter Notebook
 
