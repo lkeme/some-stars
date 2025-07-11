@@ -15,6 +15,7 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
 *   [C#](#c)
 *   [Java](#java)
 *   [TypeScript](#typescript)
@@ -24,7 +25,6 @@
 *   [Shell](#shell)
 *   [Python](#python)
 *   [Lua](#lua)
-*   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
 *   [Kotlin](#kotlin)
 *   [C](#c-1)
@@ -39,6 +39,16 @@
 *   [HTML](#html)
 *   [Markdown](#markdown)
 *   [Thanks](#thanks)
+
+## miscellaneous
+
+*   [ayangweb/Awesome-BongoCat](https://github.com/ayangweb/Awesome-BongoCat) - 🚀 汇聚优质的第三方 BongoCat 模型！
+
+*   [opsre/Thanks-Mirror](https://github.com/opsre/Thanks-Mirror) - 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟
+
+*   [ihmily/ip-info-api](https://github.com/ihmily/ip-info-api) -  Free IP information query APIs / 免费IP信息查询API接口，GET请求，可直接访问，无任何鉴权
+
+*   [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ## C\#
 
@@ -59,8 +69,6 @@
 *   [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg) - Allows you to emulate an Android native library, and an experimental  iOS emulation
 
 *   [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files
-
-*   [Jamling/SmartIM4IntelliJ](https://github.com/Jamling/SmartIM4IntelliJ) - IntelliJ IDEA上的SmartIM(原SmartQQ)插件，可以在IDEA中使用QQ或微信聊天
 
 ## TypeScript
 
@@ -181,14 +189,6 @@
 ## Lua
 
 *   [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime) - The Simple Config Template Of Rime By Mintimate.  QQ Chat-Group: 703260572
-
-## miscellaneous
-
-*   [opsre/Thanks-Mirror](https://github.com/opsre/Thanks-Mirror) - 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟
-
-*   [ihmily/ip-info-api](https://github.com/ihmily/ip-info-api) -  Free IP information query APIs / 免费IP信息查询API接口，GET请求，可直接访问，无任何鉴权
-
-*   [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ## JavaScript
 
