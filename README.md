@@ -15,10 +15,10 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [C#](#c)
 *   [Java](#java)
-*   [TypeScript](#typescript)
 *   [Objective-C](#objective-c)
 *   [Vue](#vue)
 *   [Go](#go)
@@ -39,6 +39,34 @@
 *   [HTML](#html)
 *   [Markdown](#markdown)
 *   [Thanks](#thanks)
+
+## TypeScript
+
+*   [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+
+*   [jackluson/sync-your-cookie](https://github.com/jackluson/sync-your-cookie) - A browser extension that syncs and manages your cookies to your cloudflare
+
+*   [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
+
+*   [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台桌宠 BongoCat，为桌面增添乐趣！
+
+*   [yulimchen/vue3-h5-template](https://github.com/yulimchen/vue3-h5-template) - 🌱 A ready-to-use mobile project base template built with the Vue3, Vant, and Vite. | 基于 Vue3、Vite5、TypeScript/JavaScript、Tailwindcss、Vant4，开箱即用的移动端项目基础模板
+
+*   [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
+
+*   [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
+
+*   [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
+
+*   [youniaogu/MangaReader](https://github.com/youniaogu/MangaReader) - 一个漫画 APP📱，基于 react-native 构建，兼容 Android、Ios 平台
+
+*   [imzbf/md-editor-v3](https://github.com/imzbf/md-editor-v3) - Markdown editor for vue3, developed in jsx and typescript, dark theme、beautify content by prettier、render articles directly、paste or clip the picture and upload it...
+
+*   [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - OCR & Document Extraction using vision models
+
+*   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
+
+*   [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
 
 ## miscellaneous
 
@@ -69,32 +97,6 @@
 *   [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg) - Allows you to emulate an Android native library, and an experimental  iOS emulation
 
 *   [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files
-
-## TypeScript
-
-*   [jackluson/sync-your-cookie](https://github.com/jackluson/sync-your-cookie) - A browser extension that syncs and manages your cookies to your cloudflare
-
-*   [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
-
-*   [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台桌宠 BongoCat，为桌面增添乐趣！
-
-*   [yulimchen/vue3-h5-template](https://github.com/yulimchen/vue3-h5-template) - 🌱 A ready-to-use mobile project base template built with the Vue3, Vant, and Vite. | 基于 Vue3、Vite5、TypeScript/JavaScript、Tailwindcss、Vant4，开箱即用的移动端项目基础模板
-
-*   [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
-
-*   [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
-
-*   [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
-
-*   [youniaogu/MangaReader](https://github.com/youniaogu/MangaReader) - 一个漫画 APP📱，基于 react-native 构建，兼容 Android、Ios 平台
-
-*   [imzbf/md-editor-v3](https://github.com/imzbf/md-editor-v3) - Markdown editor for vue3, developed in jsx and typescript, dark theme、beautify content by prettier、render articles directly、paste or clip the picture and upload it...
-
-*   [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - OCR & Document Extraction using vision models
-
-*   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
-
-*   [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
 
 ## Objective-C
 
@@ -127,8 +129,6 @@
 *   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 
 *   [hashicorp/go-retryablehttp](https://github.com/hashicorp/go-retryablehttp) - Retryable HTTP client in Go
-
-*   [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 
 ## Shell
 
