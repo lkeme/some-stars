@@ -109,6 +109,8 @@
 
 *   [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 
+*   [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.
+
 ## C++
 
 *   [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
@@ -130,8 +132,6 @@
 *   [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic
 
 *   [wangluozhe/requests](https://github.com/wangluozhe/requests) - 用于快速请求HTTP或HTTPS，并支持修改ja3、ja4指纹
-
-*   [gospider007/requests](https://github.com/gospider007/requests) - 🚀A next-generation HTTP client for Golang, Support for http1, http2, http3, websocket, sse, utls, uquic
 
 *   [gookit/slog](https://github.com/gookit/slog) - 📑 Lightweight, configurable, extensible logging library written in Go. Support multi level, multi outputs and built-in multi file logger, buffers, clean, rotate-file handling.一个易于使用的，轻量级、可配置、可扩展的日志库。支持多个级别，输出到多文件；内置文件日志处理、自动切割、清理、压缩等增强功能
 
