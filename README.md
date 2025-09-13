@@ -15,14 +15,14 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
+*   [C#](#c)
 *   [Python](#python)
 *   [JavaScript](#javascript)
-*   [C++](#c)
+*   [C++](#c-1)
 *   [Go](#go)
 *   [Vue](#vue)
-*   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
-*   [C#](#c-1)
 *   [Java](#java)
 *   [Objective-C](#objective-c)
 *   [Shell](#shell)
@@ -36,8 +36,53 @@
 *   [Batchfile](#batchfile)
 *   [PHP](#php)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [CSS](#css)
 *   [Thanks](#thanks)
+
+## TypeScript
+
+*   [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
+
+*   [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite7, TypeScript, Pinia, NaiveUI 和 UnoCSS。
+
+*   [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+
+*   [jackluson/sync-your-cookie](https://github.com/jackluson/sync-your-cookie) - A browser extension that syncs your cookies & localStorage to your cloudflare and manages  them
+
+*   [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
+
+*   [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台桌宠 BongoCat，为桌面增添乐趣！
+
+*   [yulimchen/vue3-h5-template](https://github.com/yulimchen/vue3-h5-template) - 🌱 A ready-to-use mobile project base template built with the Vue3, Vant, and Vite. | 基于 Vue3、Vite5、TypeScript/JavaScript、Tailwindcss、Vant4，开箱即用的移动端项目基础模板
+
+*   [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
+
+*   [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
+
+*   [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
+
+*   [youniaogu/MangaReader](https://github.com/youniaogu/MangaReader) - 一个漫画 APP📱，基于 react-native 构建，兼容 Android、Ios 平台
+
+*   [imzbf/md-editor-v3](https://github.com/imzbf/md-editor-v3) - Markdown editor for vue3, developed in jsx and typescript, dark theme、beautify content by prettier、render articles directly、paste or clip the picture and upload it...
+
+*   [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - OCR & Document Extraction using vision models
+
+*   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
+
+*   [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
+
+## C\#
+
+*   [LagrangeDev/Lagrange.Core](https://github.com/LagrangeDev/Lagrange.Core) - An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core
+
+*   [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+
+*   [SpaceTimee/Sheas-Cealer](https://github.com/SpaceTimee/Sheas-Cealer) - Just Ceal It (可用于无代理合法抵御网络监听和开展网络研究)
+
+*   [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
+
+*   [nomi-san/parsec-vdd](https://github.com/nomi-san/parsec-vdd) - ✨ Perfect virtual display for game streaming
+
+*   [HMBSbige/ShadowsocksR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows) - Ship of Theseus
 
 ## Python
 
@@ -80,10 +125,6 @@
 *   [arrow-py/arrow](https://github.com/arrow-py/arrow) - 🏹 Better dates & times for Python
 
 *   [imWildCat/scylla](https://github.com/imWildCat/scylla) - Intelligent proxy pool for Humans™ to extract content from the internet and build your own Large Language Models in this new AI era
-
-*   [tldr-pages/tldr-python-client](https://github.com/tldr-pages/tldr-python-client) - :snake: Official Python command-line client for tldr pages 📚.
-
-*   [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 
 ## JavaScript
 
@@ -149,34 +190,6 @@
 
 *   [fantastic-mobile/basic](https://github.com/fantastic-mobile/basic) - ⭐⭐⭐⭐⭐ 一款自成一派的移动端 H5 框架，支持多款 UI 组件库，基于 Vue3 。移动端, H5, vant, 手机端, mobile, 模板, 商城, 微信公众号
 
-## TypeScript
-
-*   [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
-
-*   [jackluson/sync-your-cookie](https://github.com/jackluson/sync-your-cookie) - A browser extension that syncs your cookies & localStorage to your cloudflare and manages  them
-
-*   [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
-
-*   [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台桌宠 BongoCat，为桌面增添乐趣！
-
-*   [yulimchen/vue3-h5-template](https://github.com/yulimchen/vue3-h5-template) - 🌱 A ready-to-use mobile project base template built with the Vue3, Vant, and Vite. | 基于 Vue3、Vite5、TypeScript/JavaScript、Tailwindcss、Vant4，开箱即用的移动端项目基础模板
-
-*   [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
-
-*   [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
-
-*   [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
-
-*   [youniaogu/MangaReader](https://github.com/youniaogu/MangaReader) - 一个漫画 APP📱，基于 react-native 构建，兼容 Android、Ios 平台
-
-*   [imzbf/md-editor-v3](https://github.com/imzbf/md-editor-v3) - Markdown editor for vue3, developed in jsx and typescript, dark theme、beautify content by prettier、render articles directly、paste or clip the picture and upload it...
-
-*   [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - OCR & Document Extraction using vision models
-
-*   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
-
-*   [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
-
 ## miscellaneous
 
 *   [ayangweb/Awesome-BongoCat](https://github.com/ayangweb/Awesome-BongoCat) - 🚀 汇聚优质的第三方 BongoCat 模型！
@@ -184,18 +197,6 @@
 *   [opsre/Thanks-Mirror](https://github.com/opsre/Thanks-Mirror) - 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟
 
 *   [ihmily/ip-info-api](https://github.com/ihmily/ip-info-api) -  Free IP information query APIs / 免费IP信息查询API接口，GET请求，可直接访问，无任何鉴权
-
-## C\#
-
-*   [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
-
-*   [SpaceTimee/Sheas-Cealer](https://github.com/SpaceTimee/Sheas-Cealer) - Just Ceal It (可用于无代理合法抵御网络监听和开展网络研究)
-
-*   [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
-
-*   [nomi-san/parsec-vdd](https://github.com/nomi-san/parsec-vdd) - ✨ Perfect virtual display for game streaming
-
-*   [HMBSbige/ShadowsocksR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows) - Ship of Theseus
 
 ## Java
 
@@ -278,10 +279,6 @@
 ## Jupyter Notebook
 
 *   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
-
-## CSS
-
-*   [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 
 ## Thanks
 
