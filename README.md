@@ -15,6 +15,7 @@
 
 ## Table of Contents
 
+*   [Makefile](#makefile)
 *   [TypeScript](#typescript)
 *   [C#](#c)
 *   [Python](#python)
@@ -37,6 +38,10 @@
 *   [PHP](#php)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Thanks](#thanks)
+
+## Makefile
+
+*   [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 
 ## TypeScript
 
@@ -157,8 +162,6 @@
 *   [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 
 *   [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) - Media Player Classic
-
-*   [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 
 ## Go
 
