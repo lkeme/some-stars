@@ -15,6 +15,7 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [C#](#c)
 *   [Makefile](#makefile)
 *   [TypeScript](#typescript)
@@ -26,7 +27,6 @@
 *   [miscellaneous](#miscellaneous)
 *   [Java](#java)
 *   [Objective-C](#objective-c)
-*   [Shell](#shell)
 *   [Lua](#lua)
 *   [Kotlin](#kotlin)
 *   [C](#c-2)
@@ -38,6 +38,16 @@
 *   [PHP](#php)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Thanks](#thanks)
+
+## Shell
+
+*   [flucont/btcloud](https://github.com/flucont/btcloud) - PHP开发的宝塔面板第三方云端
+
+*   [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) - VPS 融合怪服务器测评项目 更推荐使用无环境依赖的Go版本 VPS Fusion Monster Server Test Script – More recommended to use the Go version with no environment dependencies: https://github.com/oneclickvirt/ecs
+
+*   [xykt/IPQuality](https://github.com/xykt/IPQuality) - IP质量检测脚本 - IP Quality Check Script
+
+*   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 
 ## C\#
 
@@ -215,14 +225,6 @@
 
 *   [EthanArbuckle/simforge](https://github.com/EthanArbuckle/simforge) - Run (decrypted) iOS Apps on iOS Simulators
 
-## Shell
-
-*   [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) - VPS 融合怪服务器测评项目 更推荐使用无环境依赖的Go版本 VPS Fusion Monster Server Test Script – More recommended to use the Go version with no environment dependencies: https://github.com/oneclickvirt/ecs
-
-*   [xykt/IPQuality](https://github.com/xykt/IPQuality) - IP质量检测脚本 - IP Quality Check Script
-
-*   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-
 ## Lua
 
 *   [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime) - The Simple Config Template Of Rime By Mintimate.
@@ -276,8 +278,6 @@
 *   [hhxsv5/laravel-s](https://github.com/hhxsv5/laravel-s) - LaravelS is an out-of-the-box adapter between Laravel/Lumen and Swoole.
 
 *   [zyx0814/dzzoffice](https://github.com/zyx0814/dzzoffice) - dzzoffice
-
-*   [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) - 🔐 JSON Web Token Authentication for Laravel & Lumen
 
 ## Jupyter Notebook
 
