@@ -81,7 +81,7 @@
 
 *   [dimdenGD/ultimate-express](https://github.com/dimdenGD/ultimate-express) - The Ultimate Express. Fastest http server with full Express compatibility, based on µWebSockets.
 
-*   [pysunday/sdenv](https://github.com/pysunday/sdenv) - sdenv补环境框架，完美过瑞数vmp理论通杀，配合瑞数vmp纯算法逆向项目（rs-reverse）更好学习原理，商标网更新后在线样例失效，可尝试使用其它网站试验(不保证有效)
+*   [pysunday/sdenv](https://github.com/pysunday/sdenv) - sdenv补环境框架，完美过瑞数vmp理论通杀，配合瑞数vmp纯算法逆向项目（rs-reverse）更好学习原理
 
 *   [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
 
