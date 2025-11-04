@@ -15,6 +15,7 @@
 
 ## Table of Contents
 
+*   [PowerShell](#powershell)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Shell](#shell)
@@ -38,6 +39,10 @@
 *   [PHP](#php)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Thanks](#thanks)
+
+## PowerShell
+
+*   [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
 
 ## TypeScript
 
@@ -276,8 +281,6 @@
 *   [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
 
 *   [jenssegers/imagehash](https://github.com/jenssegers/imagehash) - 🌄 Perceptual image hashing for PHP
-
-*   [hhxsv5/laravel-s](https://github.com/hhxsv5/laravel-s) - LaravelS is an out-of-the-box adapter between Laravel/Lumen and Swoole.
 
 ## Jupyter Notebook
 
