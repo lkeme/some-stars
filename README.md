@@ -48,7 +48,7 @@
 
 *   [wusimpl/AntigravityQuotaWatcher](https://github.com/wusimpl/AntigravityQuotaWatcher) - Google Antigravity AI模型配额监控插件 (Antigravity AI Model Quota Watching)
 
-*   [beilunyang/moemail](https://github.com/beilunyang/moemail) - 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉 | A cute temporary email service built with NextJS + Cloudflare technology stack 🎉
+*   [beilunyang/moemail](https://github.com/beilunyang/moemail) - A cute temporary email service built with NextJS + Cloudflare technology stack 🎉 | 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉
 
 *   [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 
@@ -158,7 +158,7 @@
 
 ## Go
 
-*   [swissmakers/fail2ban-ui](https://github.com/swissmakers/fail2ban-ui) - A Go-based, management interface for Fail2Ban. It provides an intuitive dashboard to monitor, configure, and manage Fail2Ban instances in real time, supporting both local and remote Fail2ban servers. Built by Swissmakers.
+*   [swissmakers/fail2ban-ui](https://github.com/swissmakers/fail2ban-ui) - Fail2Ban UI is a swissmade web interface for operating Fail2Ban across one or more Linux hosts. It provides a central place to review bans, search and unban IPs, manage jails and filters, and receive notifications.
 
 *   [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 
