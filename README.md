@@ -140,7 +140,7 @@
 
 *   [amzxyz/RIME-LMDG](https://github.com/amzxyz/RIME-LMDG) - fcitx5扩展词库/Rime全局带声调词库，最全声调标注工具链，Rime语法模型：LMDG - Language, Model, Dictionary, Grammar。
 
-*   [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI features. Your openclaw alternative. ✨
+*   [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 
 *   [adysec/IP\_database](https://github.com/adysec/IP_database) - IP地址库 | GeoLite数据库每日更新，纯真ip库每日更新，ip2region每日更新，17monipdb每日更新，ipv6wry每日更新，IPDB每日更新，DB-IP每日更新
 
@@ -180,7 +180,7 @@
 
 *   [wiresock/proxifyre](https://github.com/wiresock/proxifyre) - ProxiFyre: A Windows SOCKS5 proxifier leveraging NDISAPI to transparently route TCP and UDP traffic on a per-app basis.
 
-*   [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy) - 🎮 An open-source game speed modifier.\[一款开源的游戏变速器]
+*   [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy) - 🎮 An open-source game speed modifier.
 
 *   [jurplel/qView](https://github.com/jurplel/qView) - Practical and minimal image viewer
 
