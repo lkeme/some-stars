@@ -15,18 +15,18 @@
 
 ## Table of Contents
 
-*   [C](#c)
+*   [C#](#c)
+*   [C](#c-1)
 *   [Batchfile](#batchfile)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Kotlin](#kotlin)
 *   [Python](#python)
 *   [Go](#go)
-*   [C++](#c-1)
+*   [C++](#c-2)
 *   [PowerShell](#powershell)
 *   [HTML](#html)
 *   [Shell](#shell)
-*   [C#](#c-2)
 *   [Makefile](#makefile)
 *   [Vue](#vue)
 *   [miscellaneous](#miscellaneous)
@@ -37,6 +37,22 @@
 *   [Rust](#rust)
 *   [Dart](#dart)
 *   [Thanks](#thanks)
+
+## C\#
+
+*   [STranslate/STranslate](https://github.com/STranslate/STranslate) - A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具
+
+*   [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (\&more) - cross-platform!
+
+*   [LagrangeDev/Lagrange.Core](https://github.com/LagrangeDev/Lagrange.Core) - An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core
+
+*   [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+
+*   [SpaceTimee/Sheas-Cealer](https://github.com/SpaceTimee/Sheas-Cealer) - Just Ceal It (可用于无代理合法抵御网络监听和开展网络研究)
+
+*   [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
+
+*   [nomi-san/parsec-vdd](https://github.com/nomi-san/parsec-vdd) - ✨ Perfect virtual display for game streaming
 
 ## C
 
@@ -130,8 +146,6 @@
 
 *   [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 
-*   [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS, Kobo Sync and KOReader Sync support
-
 ## Python
 
 *   [wzdnzd/harvester](https://github.com/wzdnzd/harvester) - Intelligent data acquisition framework for GitHub and web sources
@@ -217,20 +231,6 @@
 *   [xykt/IPQuality](https://github.com/xykt/IPQuality) - IP质量检测脚本 - IP Quality Check Script
 
 *   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-
-## C\#
-
-*   [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (\&more) - cross-platform!
-
-*   [LagrangeDev/Lagrange.Core](https://github.com/LagrangeDev/Lagrange.Core) - An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core
-
-*   [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
-
-*   [SpaceTimee/Sheas-Cealer](https://github.com/SpaceTimee/Sheas-Cealer) - Just Ceal It (可用于无代理合法抵御网络监听和开展网络研究)
-
-*   [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
-
-*   [nomi-san/parsec-vdd](https://github.com/nomi-san/parsec-vdd) - ✨ Perfect virtual display for game streaming
 
 ## Makefile
 
