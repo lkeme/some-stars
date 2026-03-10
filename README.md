@@ -15,6 +15,7 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [HTML](#html)
 *   [Go](#go)
@@ -34,13 +35,16 @@
 *   [Objective-C](#objective-c)
 *   [Lua](#lua)
 *   [CoffeeScript](#coffeescript)
-*   [Rust](#rust)
 *   [Dart](#dart)
 *   [Thanks](#thanks)
 
-## TypeScript
+## Rust
 
 *   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
+
+*   [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
+
+## TypeScript
 
 *   [evi0s/WMPFDebugger](https://github.com/evi0s/WMPFDebugger) - Yet another WeChat miniapp debugger on Windows
 
@@ -271,10 +275,6 @@
 ## CoffeeScript
 
 *   [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) - Manage and switch between multiple proxies quickly & easily.
-
-## Rust
-
-*   [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 
 ## Dart
 
