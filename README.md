@@ -199,7 +199,7 @@
 
 *   [amzxyz/RIME-LMDG](https://github.com/amzxyz/RIME-LMDG) - 扩展词库/声调编码/最全声调标注工具链/万象更新工具链/Rime语法模型：LMDG - Language, Model, Dictionary, Grammar。没错这里是万象拼音的“罗马帝国”!
 
-*   [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+*   [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 
 *   [adysec/IP\_database](https://github.com/adysec/IP_database) - IP地址库 | GeoLite数据库每日更新，纯真ip库每日更新，ip2region每日更新，17monipdb每日更新，ipv6wry每日更新，IPDB每日更新，DB-IP每日更新
 
@@ -257,7 +257,7 @@
 
 *   [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 
-*   [fantastic-mobile/basic](https://github.com/fantastic-mobile/basic) - ⭐⭐⭐⭐⭐ 一款自成一派的移动端 H5 框架，支持多款 UI 组件库，基于 Vue3 。移动端, H5, vant, 手机端, mobile, 模板, 商城, 微信公众号
+*   [fantastic-mobile/basic](https://github.com/fantastic-mobile/basic) - 💪💪💪 让你的 H5 项目拥有稳固的工程底座。移动端, H5, vant, 手机端, mobile, 模板, 商城, 微信公众号
 
 *   [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！
 
