@@ -15,9 +15,9 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [Assembly](#assembly)
 *   [Rust](#rust)
-*   [TypeScript](#typescript)
 *   [HTML](#html)
 *   [Go](#go)
 *   [C#](#c)
@@ -39,17 +39,9 @@
 *   [Dart](#dart)
 *   [Thanks](#thanks)
 
-## Assembly
-
-*   [ebitengine/purego](https://github.com/ebitengine/purego) - A library for calling C functions from Go without Cgo
-
-## Rust
-
-*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
-
-*   [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
-
 ## TypeScript
+
+*   [biggerstar/wedecode](https://github.com/biggerstar/wedecode) - 全自动化，微信小程序 wxapkg 包 源代码还原工具, 线上代码安全审计，支持 Windows, Macos, Linux
 
 *   [evi0s/WMPFDebugger](https://github.com/evi0s/WMPFDebugger) - Yet another WeChat miniapp debugger on Windows
 
@@ -86,6 +78,16 @@
 *   [youniaogu/MangaReader](https://github.com/youniaogu/MangaReader) - 一个漫画 APP📱，基于 react-native 构建，兼容 Android、Ios 平台
 
 *   [imzbf/md-editor-v3](https://github.com/imzbf/md-editor-v3) - Markdown editor for vue3, developed in jsx and typescript, dark theme、beautify content by prettier、render articles directly、paste or clip the picture and upload it...
+
+## Assembly
+
+*   [ebitengine/purego](https://github.com/ebitengine/purego) - A library for calling C functions from Go without Cgo
+
+## Rust
+
+*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
+
+*   [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 
 ## HTML
 
@@ -246,8 +248,6 @@
 *   [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) - VPS 融合怪服务器测评项目 更推荐使用无环境依赖的Go版本 VPS Fusion Monster Server Test Script – More recommended to use the Go version with no environment dependencies: https://github.com/oneclickvirt/ecs
 
 *   [xykt/IPQuality](https://github.com/xykt/IPQuality) - IP质量检测脚本 - IP Quality Check Script
-
-*   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 
 ## Makefile
 
