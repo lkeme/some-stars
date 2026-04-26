@@ -15,9 +15,9 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [Assembly](#assembly)
-*   [Rust](#rust)
 *   [HTML](#html)
 *   [Go](#go)
 *   [C#](#c)
@@ -38,6 +38,14 @@
 *   [CoffeeScript](#coffeescript)
 *   [Dart](#dart)
 *   [Thanks](#thanks)
+
+## Rust
+
+*   [owu/wsl-dashboard](https://github.com/owu/wsl-dashboard) - A GUI manager for WSL. A modern, high-performance, and lightweight WSL instance management dashboard.
+
+*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
+
+*   [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 
 ## TypeScript
 
@@ -67,8 +75,6 @@
 
 *   [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
 
-*   [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！
-
 *   [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
 
 *   [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
@@ -82,12 +88,6 @@
 ## Assembly
 
 *   [ebitengine/purego](https://github.com/ebitengine/purego) - A library for calling C functions from Go without Cgo
-
-## Rust
-
-*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
-
-*   [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 
 ## HTML
 
@@ -211,8 +211,6 @@
 
 *   [jasonxtn/Argus](https://github.com/jasonxtn/Argus) - The Ultimate Information Gathering Toolkit
 
-*   [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
-
 ## C++
 
 *   [wiresock/proxifyre](https://github.com/wiresock/proxifyre) - ProxiFyre: A Windows SOCKS5 proxifier leveraging NDISAPI to transparently route TCP and UDP traffic on a per-app basis.
@@ -260,6 +258,8 @@
 *   [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 
 *   [fantastic-mobile/basic](https://github.com/fantastic-mobile/basic) - 💪💪💪 让你的 H5 项目拥有稳固的工程底座。移动端, H5, vant, 手机端, mobile, 模板, 商城, 微信公众号
+
+*   [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！
 
 *   [yulimchen/vue3-h5-template](https://github.com/yulimchen/vue3-h5-template) - 🌱 A ready-to-use mobile project base template built with the Vue3, Vant, and Vite. | 基于 Vue3、Vite5、TypeScript/JavaScript、Tailwindcss、Vant4，开箱即用的移动端项目基础模板
 
