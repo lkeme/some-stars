@@ -64,7 +64,7 @@
 
 ## Rust
 
-*   [owu/wsl-dashboard](https://github.com/owu/wsl-dashboard) - A GUI manager for WSL. A modern, high-performance, and lightweight WSL instance management dashboard.
+*   [owu/wsl-dashboard](https://github.com/owu/wsl-dashboard) - A GUI manager for WSL. A modern, low-memory, high-performance, and lightweight WSL instance management dashboard.
 
 *   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
 
