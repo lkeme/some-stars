@@ -17,10 +17,9 @@
 
 *   [Go](#go)
 *   [Swift](#swift)
-*   [Inno Setup](#inno-setup)
+*   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [Assembly](#assembly)
-*   [Rust](#rust)
 *   [HTML](#html)
 *   [C#](#c)
 *   [C](#c-1)
@@ -70,9 +69,13 @@
 
 *   [minh-ton/reynard-browser](https://github.com/minh-ton/reynard-browser) - An experimental Gecko-based web browser for iOS 14+.
 
-## Inno Setup
+## Rust
 
 *   [owu/wsl-dashboard](https://github.com/owu/wsl-dashboard) - A GUI manager for WSL featuring a modern UI — a lightweight, low‑memory, high‑performance dashboard to manage WSL instances.
+
+*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
+
+*   [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 
 ## TypeScript
 
@@ -113,12 +116,6 @@
 ## Assembly
 
 *   [ebitengine/purego](https://github.com/ebitengine/purego) - A library for calling C functions from Go without Cgo
-
-## Rust
-
-*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
-
-*   [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 
 ## HTML
 
