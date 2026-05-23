@@ -15,6 +15,7 @@
 
 ## Table of Contents
 
+*   [Batchfile](#batchfile)
 *   [Go](#go)
 *   [Swift](#swift)
 *   [Rust](#rust)
@@ -23,7 +24,6 @@
 *   [HTML](#html)
 *   [C#](#c)
 *   [C](#c-1)
-*   [Batchfile](#batchfile)
 *   [JavaScript](#javascript)
 *   [Kotlin](#kotlin)
 *   [Python](#python)
@@ -38,6 +38,12 @@
 *   [Lua](#lua)
 *   [CoffeeScript](#coffeescript)
 *   [Thanks](#thanks)
+
+## Batchfile
+
+*   [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) - A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.
+
+*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 
 ## Go
 
@@ -145,10 +151,6 @@
 
 *   [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
 
-## Batchfile
-
-*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
-
 ## JavaScript
 
 *   [cilame/v\_jstools](https://github.com/cilame/v_jstools) - 模仿着写一个 chrome 插件，用来快速调试前端 js 代码。
@@ -186,8 +188,6 @@
 *   [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
 
 *   [phodal/auto-dev](https://github.com/phodal/auto-dev) - 🧙‍AutoDev: the AI-native Multi-Agent development platform built on Kotlin Multiplatform, covering all 7 phases of SDLC.
-
-*   [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 
 ## Python
 
