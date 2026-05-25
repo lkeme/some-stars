@@ -83,7 +83,7 @@
 
 ## Swift
 
-*   [minh-ton/reynard-browser](https://github.com/minh-ton/reynard-browser) - An experimental Gecko-based web browser for iOS 14+.
+*   [minh-ton/reynard-browser](https://github.com/minh-ton/reynard-browser) - An experimental Gecko-based web browser for iOS 13+.
 
 ## TypeScript
 
