@@ -15,18 +15,17 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
 *   [Batchfile](#batchfile)
 *   [Go](#go)
 *   [Swift](#swift)
 *   [Assembly](#assembly)
-*   [HTML](#html)
 *   [C#](#c)
 *   [C](#c-1)
 *   [JavaScript](#javascript)
 *   [Kotlin](#kotlin)
-*   [Python](#python)
 *   [C++](#c-2)
 *   [PowerShell](#powershell)
 *   [Shell](#shell)
@@ -39,6 +38,34 @@
 *   [CoffeeScript](#coffeescript)
 *   [Thanks](#thanks)
 
+## Python
+
+*   [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+
+*   [wzdnzd/harvester](https://github.com/wzdnzd/harvester) - Intelligent data acquisition framework for GitHub and web sources
+
+*   [Radekyspec/StartLive](https://github.com/Radekyspec/StartLive) - 绕过B站直播姬获取推流地址
+
+*   [High-Logic/Genie-TTS](https://github.com/High-Logic/Genie-TTS) - GPT-SoVITS ONNX Inference Engine & Model Converter
+
+*   [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) - 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
+
+*   [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
+
+*   [googlefonts/googlesans-code](https://github.com/googlefonts/googlesans-code) - The Google Sans Code font family
+
+*   [boson-ai/higgs-audio](https://github.com/boson-ai/higgs-audio) - Text-audio foundation model from Boson AI
+
+*   [amzxyz/RIME-LMDG](https://github.com/amzxyz/RIME-LMDG) - 简繁扩展词库/声调编码/最全声调标注工具链/万象更新工具链/Rime语法模型：LMDG - Language, Model, Dictionary, Grammar。没错这里是万象拼音的“罗马帝国”!
+
+*   [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+
+*   [adysec/IP\_database](https://github.com/adysec/IP_database) - IP地址库 | GeoLite数据库每日更新，纯真ip库每日更新，ip2region每日更新，17monipdb每日更新，ipv6wry每日更新，IPDB每日更新，DB-IP每日更新
+
+*   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
+
+*   [jasonxtn/Argus](https://github.com/jasonxtn/Argus) - The Ultimate Information Gathering Toolkit
+
 ## TypeScript
 
 *   [SukkaW/Make-Bilibili-Great-Than-Ever-Before](https://github.com/SukkaW/Make-Bilibili-Great-Than-Ever-Before) - A fork of the userscript "Make Bilibili Great Again", but with some experimental features
@@ -46,6 +73,8 @@
 *   [biggerstar/wedecode](https://github.com/biggerstar/wedecode) - 全自动化，微信小程序 wxapkg 包 源代码还原工具, 线上代码安全审计，支持 Windows, Macos, Linux
 
 *   [evi0s/WMPFDebugger](https://github.com/evi0s/WMPFDebugger) - Yet another WeChat miniapp debugger on Windows
+
+*   [HBAI-Ltd/Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) - Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-source AI tool that turns stories and scripts into animated short dramas. Features AI scriptwriting, storyboarding, character and video generation. A cross-platform desktop app for efficient content creation.
 
 *   [SawyerHood/dev-browser](https://github.com/SawyerHood/dev-browser) - A Claude Skill to give your agent the ability to use a web browser
 
@@ -84,8 +113,6 @@
 *   [owu/wsl-dashboard](https://github.com/owu/wsl-dashboard) - A GUI manager for WSL featuring a modern UI — a lightweight, low‑memory, high‑performance dashboard to manage WSL instances.
 
 *   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
-
-*   [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 
 ## Batchfile
 
@@ -126,10 +153,6 @@
 ## Assembly
 
 *   [ebitengine/purego](https://github.com/ebitengine/purego) - A library for calling C functions from Go without Cgo
-
-## HTML
-
-*   [HBAI-Ltd/Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) - Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-source AI tool that turns stories and scripts into animated short dramas. Features AI scriptwriting, storyboarding, character and video generation. A cross-platform desktop app for efficient content creation.
 
 ## C\#
 
@@ -190,32 +213,6 @@
 *   [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
 
 *   [phodal/auto-dev](https://github.com/phodal/auto-dev) - 🧙‍AutoDev: the AI-native Multi-Agent development platform built on Kotlin Multiplatform, covering all 7 phases of SDLC.
-
-## Python
-
-*   [wzdnzd/harvester](https://github.com/wzdnzd/harvester) - Intelligent data acquisition framework for GitHub and web sources
-
-*   [Radekyspec/StartLive](https://github.com/Radekyspec/StartLive) - 绕过B站直播姬获取推流地址
-
-*   [High-Logic/Genie-TTS](https://github.com/High-Logic/Genie-TTS) - GPT-SoVITS ONNX Inference Engine & Model Converter
-
-*   [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) - 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
-
-*   [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
-
-*   [googlefonts/googlesans-code](https://github.com/googlefonts/googlesans-code) - The Google Sans Code font family
-
-*   [boson-ai/higgs-audio](https://github.com/boson-ai/higgs-audio) - Text-audio foundation model from Boson AI
-
-*   [amzxyz/RIME-LMDG](https://github.com/amzxyz/RIME-LMDG) - 简繁扩展词库/声调编码/最全声调标注工具链/万象更新工具链/Rime语法模型：LMDG - Language, Model, Dictionary, Grammar。没错这里是万象拼音的“罗马帝国”!
-
-*   [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
-
-*   [adysec/IP\_database](https://github.com/adysec/IP_database) - IP地址库 | GeoLite数据库每日更新，纯真ip库每日更新，ip2region每日更新，17monipdb每日更新，ipv6wry每日更新，IPDB每日更新，DB-IP每日更新
-
-*   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
-
-*   [jasonxtn/Argus](https://github.com/jasonxtn/Argus) - The Ultimate Information Gathering Toolkit
 
 ## C++
 
