@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: some generator
-        uses: simonecorsi/mawesome@v2
+        uses: SwordfishLabs/simonecorsi-mawesome@bb3b0b0f0a78e96671d1836fc4c2c5b2f9daf523
         with:
           api-token: ${{ secrets.PERSONAL_TOKEN }}
           github-email: ${{ secrets.USER_EMAIL }}
