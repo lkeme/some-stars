@@ -279,6 +279,6 @@
 
 ## Thanks
 
-* generated with [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome)
+* generated with [SwordfishLabs/simonecorsi-mawesome](https://github.com/SwordfishLabs/simonecorsi-mawesome)
 * modified from [rcy1314/some-starts](https://github.com/rcy1314/some-stars)
 * By [lkeme/some-starts](https://github.com/lkeme/some-stars)
